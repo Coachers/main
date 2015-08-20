@@ -1,0 +1,36 @@
+body{
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.MainTitle{
+    background-color: cornflowerblue;
+    position: static;
+    margin-top: -10px;
+    height: 52px;
+
+}
+
+.MainTitle ul{
+    display: -webkit-box;
+    padding: 0px;
+}
+
+
+.MainTitle a{
+    display: block;
+    padding: 12px 48px;
+    text-decoration: blink;
+    color: black
+}
+
+.MainTitle li{
+    font-size: x-large;
+    display: -webkit-box;
+}
+
+.MainTitle a:hover,
+.MainTitle a:focus{
+    background-color: darkcyan;
+}
+
