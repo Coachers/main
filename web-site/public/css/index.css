@@ -1,6 +1,7 @@
 body{
     margin-left: 15%;
     margin-right: 15%;
+    background-color: #555555;
 }
 
 .MainTitle{
@@ -19,9 +20,9 @@ body{
 
 .MainTitle a{
     display: block;
-    padding: 12px 48px;
+    padding: 12.7px 48px;
     text-decoration: blink;
-    color: black
+    color: #ffffff;
 }
 
 .MainTitle li{
@@ -29,8 +30,10 @@ body{
     display: -webkit-box;
 }
 
-.MainTitle a:hover,
+.MainTitle a:hover{
+    background-color: #0b97c4;
+}
 .MainTitle a:focus{
-    background-color: darkcyan;
+    background-color: gray;
 }
 

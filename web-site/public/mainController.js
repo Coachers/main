@@ -7,3 +7,4 @@ angular.module('myApp.controllers')
         'use strict';
 
     }]);
+
